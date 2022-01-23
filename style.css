@@ -48,8 +48,9 @@ body{
     background-color: red;
 }
 
-#titulo {
-    font-family: monospace;
+.titulo {
+    text-align: center;
+}
 }
 
 a {
