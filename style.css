@@ -6,6 +6,11 @@
     font-family: sans-serif;
 }
 
+@font-face {
+    font-family: california;
+    src: url(California.ttf);
+}
+
 body{
     background-color: black;
 }
@@ -50,6 +55,7 @@ body{
 
 .titulo {
     text-align: center;
+    font-family: california;
 }
 
 a {
